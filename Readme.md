@@ -31,5 +31,6 @@ Salt and Pepper algorith for CUDA. For work with images, program uses EasyBMP.
 
 Image input:
 ![Input image](lena.bmp)
+
 Image output:
 ![Output image](result.bmp)
