@@ -6,13 +6,13 @@ Salt and Pepper algorith for CUDA. For work with images, program uses EasyBMP.
 
 ## How use
 
-    1. Create executable program
+1. Create executable program
 
     ```console
     make salt_and_pepper
     ```
 
-    2. Run
+2. Run
 
     ```console
     ./salt_and_pepper
